@@ -28,4 +28,3 @@ python克隆库，内含python解释器
 + `text`文件：`doubanmovietop250_2021-06-22.txt`
 + `excel`文件：`doubanmovietop250_2021-06-22.xls`
 
-Creating a new branch is quick.
